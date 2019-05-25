@@ -5,7 +5,7 @@ This is a module of [Neard project](https://github.com/neard/neard) involving SV
 
 ## Documentation and downloads
 
-http://neard.io/modules/svn
+https://neard.io/modules/svn
 
 ## Issues
 
